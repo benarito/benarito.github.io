@@ -11,4 +11,4 @@ categories: General
 I have created this blog using:<br>
   1. [Jekyll](http://jekyllrb.com) <br>
   2. [Pixyll theme ](http://pixyll.com)<br>
-  3. [Github Pages](https://pages.github.com)<br>
+  3. [Github Pages](https://pages.github.com)
